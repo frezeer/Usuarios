@@ -1,0 +1,158 @@
+
+http://www.json-generator.com/api/json/get/cuauxHEEQy?indent=2
+
+[
+  '{{repeat(20)}}',
+  {
+    id: '{{objectId()}}',
+    nombre: '{{firstName()}} {{surname()}}',
+    edad: '{{integer(20,40)}}',
+    email: '{{email()}}',
+    pais:  '{{country()}}'
+    
+  }
+]
+
+
+[
+  {
+    "id": "5bf7706d6c55a8dc74f26477",
+    "nombre": "Patterson Kaufman",
+    "edad": 32,
+    "email": "pattersonkaufman@nspire.com",
+    "pais": "French Southern Territories"
+  },
+  {
+    "id": "5bf7706dd0f6504eaf8f05e3",
+    "nombre": "Brooke Mendez",
+    "edad": 29,
+    "email": "brookemendez@nspire.com",
+    "pais": "Hungary"
+  },
+  {
+    "id": "5bf7706dd70f47704537956c",
+    "nombre": "Leona Booker",
+    "edad": 34,
+    "email": "leonabooker@nspire.com",
+    "pais": "Albania"
+  },
+  {
+    "id": "5bf7706db24e180f12f9fa85",
+    "nombre": "Ferrell Oneill",
+    "edad": 29,
+    "email": "ferrelloneill@nspire.com",
+    "pais": "Turkmenistan"
+  },
+  {
+    "id": "5bf7706d61839b225becf528",
+    "nombre": "Richard Castillo",
+    "edad": 34,
+    "email": "richardcastillo@nspire.com",
+    "pais": "Palau"
+  },
+  {
+    "id": "5bf7706d1969f37a3ca3ee5a",
+    "nombre": "Bobbie Johnson",
+    "edad": 26,
+    "email": "bobbiejohnson@nspire.com",
+    "pais": "Korea (South)"
+  },
+  {
+    "id": "5bf7706d5610dbd60537db8e",
+    "nombre": "James Reese",
+    "edad": 21,
+    "email": "jamesreese@nspire.com",
+    "pais": "Qatar"
+  },
+  {
+    "id": "5bf7706d30cbc950b4d4c31f",
+    "nombre": "Autumn Perkins",
+    "edad": 21,
+    "email": "autumnperkins@nspire.com",
+    "pais": "France, Metropolitan"
+  },
+  {
+    "id": "5bf7706dfb2816ac3557707f",
+    "nombre": "Cherry Schroeder",
+    "edad": 24,
+    "email": "cherryschroeder@nspire.com",
+    "pais": "Canada"
+  },
+  {
+    "id": "5bf7706d58d2627ab498e3a1",
+    "nombre": "Claudia Owen",
+    "edad": 40,
+    "email": "claudiaowen@nspire.com",
+    "pais": "Niue"
+  },
+  {
+    "id": "5bf7706d88e2af57d9cb66da",
+    "nombre": "Vera Paul",
+    "edad": 25,
+    "email": "verapaul@nspire.com",
+    "pais": "Dominican Republic"
+  },
+  {
+    "id": "5bf7706d408bc1efca88bbc2",
+    "nombre": "Jeannie Moreno",
+    "edad": 20,
+    "email": "jeanniemoreno@nspire.com",
+    "pais": "Finland"
+  },
+  {
+    "id": "5bf7706d71f7338a8dfcd3a7",
+    "nombre": "Vinson Mcneil",
+    "edad": 34,
+    "email": "vinsonmcneil@nspire.com",
+    "pais": "New Zealand"
+  },
+  {
+    "id": "5bf7706d4272a1d8583d6703",
+    "nombre": "Ramos Sherman",
+    "edad": 36,
+    "email": "ramossherman@nspire.com",
+    "pais": "Cocos (Keeling Islands)"
+  },
+  {
+    "id": "5bf7706dc80ab5d677a55bb5",
+    "nombre": "Brennan Prince",
+    "edad": 23,
+    "email": "brennanprince@nspire.com",
+    "pais": "Turkey"
+  },
+  {
+    "id": "5bf7706de7e8c7b53988793c",
+    "nombre": "Beth Noble",
+    "edad": 29,
+    "email": "bethnoble@nspire.com",
+    "pais": "Burkina Faso"
+  },
+  {
+    "id": "5bf7706dc0824213194f541a",
+    "nombre": "Jenkins Lawson",
+    "edad": 36,
+    "email": "jenkinslawson@nspire.com",
+    "pais": "Puerto Rico"
+  },
+  {
+    "id": "5bf7706db4fb22c7884fb2fe",
+    "nombre": "Stephens Frost",
+    "edad": 37,
+    "email": "stephensfrost@nspire.com",
+    "pais": "Myanmar"
+  },
+  {
+    "id": "5bf7706d1fcd0df03b487146",
+    "nombre": "Ramirez Howell",
+    "edad": 28,
+    "email": "ramirezhowell@nspire.com",
+    "pais": "US Minor Outlying Islands"
+  },
+  {
+    "id": "5bf7706dca98e285e3e1f985",
+    "nombre": "Lucille Carey",
+    "edad": 33,
+    "email": "lucillecarey@nspire.com",
+    "pais": "Suriname"
+  }
+]
